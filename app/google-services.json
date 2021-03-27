@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876677213523",
+    "firebase_url": "https://chatshat-all-features-default-rtdb.firebaseio.com",
+    "project_id": "chatshat-all-features",
+    "storage_bucket": "chatshat-all-features.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876677213523:android:bddf9a47a8a6cccb72c5a6",
+        "android_client_info": {
+          "package_name": "com.example.chatshat_features"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876677213523-2tl4b1jfgl4a980g9av8vo0c1ggii7e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatshat_features",
+            "certificate_hash": "cde0c9f76560a9e64fecaf6c949df2a786e8c07c"
+          }
+        },
+        {
+          "client_id": "876677213523-b1f1mb9h8p4bson7vb0s91engsljs787.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADSoK9xaZra9wVgTvDGf6ao24Qd5b6FO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876677213523-b1f1mb9h8p4bson7vb0s91engsljs787.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
